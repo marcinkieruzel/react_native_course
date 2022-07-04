@@ -4,7 +4,7 @@
 
 1. Zainstaluj `Expo CLI`. `npm i -g expo-cli`.
 2. Pobierz aplikację Expo ze sklepu Google Play lub AppStore.
-3. Stwórz nową aplikację Expo `expo init hello-world --template blank`.
+3. Stwórz nową aplikację Expo `expo init hello-world --template expo-template-blank-typescript`. Zainstaluj typy `yarn add -D ts-node typescript`
 4. Uruchom aplikację `npm start`. Upewnij się, że jesteś w dobrym folderze projektu.
 5. Zapoznaj się z interface narzędzia Metro.   
 5. Odczytaj kod QR i otwórz projekt w aplikacji mobilnej Expo.
